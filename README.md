@@ -1,1 +1,1 @@
-# spring-cloude-config2
+# spring-cloude-config
